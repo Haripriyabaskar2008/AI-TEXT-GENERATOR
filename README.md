@@ -1,5 +1,5 @@
 # AI-TEXT-GENERATOR
-# 🤖 AI Text Generator
+#              AI Text Generator
 
 An AI-powered text generation application built using **Python, Streamlit, Hugging Face Transformers, and GPT-Neo 125M**.
 
@@ -7,15 +7,15 @@ This application allows users to enter a text prompt and generate AI-powered tex
 
 ## ✨ Features
 
-- 🤖 AI-powered text generation
-- ✍️ Simple and user-friendly interface
-- 🧠 Uses Hugging Face Transformers
-- ⚡ Interactive Streamlit web application
-- 🎯 Generates text based on user prompts
-- 💻 Easy to install and run locally
-- 📚 Useful for learning and experimenting with AI text generation
+-  AI-powered text generation
+-  Simple and user-friendly interface
+-  Uses Hugging Face Transformers
+-  Interactive Streamlit web application
+-  Generates text based on user prompts
+-  Easy to install and run locally
+-  Useful for learning and experimenting with AI text generation
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Streamlit**
@@ -23,7 +23,7 @@ This application allows users to enter a text prompt and generate AI-powered tex
 - **PyTorch**
 - **GPT-Neo 125M**
 
-## 📂 Project Structure
+##  Project Structure
 
 
 AI-TEXT-GENERATOR/
@@ -51,17 +51,17 @@ To explore practical applications of Generative AI.
 To provide a simple platform for experimenting with AI-generated text.
 
 
-🔮 Future Enhancements
-🌐 Add support for multiple languages.
-🎨 Improve the application user interface.
-📋 Add copy-to-clipboard functionality.
-💾 Allow users to download generated text.
-⚙️ Add controls for text length and creativity.
-🤖 Support multiple AI language models.
-📊 Add text generation settings for advanced users.
+ Future Enhancements
+ Add support for multiple languages.
+ Improve the application user interface.
+ Add copy-to-clipboard functionality.
+ Allow users to download generated text.
+ Add controls for text length and creativity.
+ Support multiple AI language models.
+ Add text generation settings for advanced users.
 
 
-👩‍💻 Author
+ Author
 
 HARI PRIYA.B
 B.Sc. Computer Science with Artificial Intelligence
