@@ -5,7 +5,7 @@ An AI-powered text generation application built using **Python, Streamlit, Huggi
 
 This application allows users to enter a text prompt and generate AI-powered text based on the given input through a simple and interactive web interface.
 
-## ✨ Features
+## Features
 
 -  AI-powered text generation
 -  Simple and user-friendly interface
@@ -42,7 +42,7 @@ AI processes the prompt
         ↓
 Generated text is displayed
 
-🎯 Objectives
+ Objectives:
 To develop a simple AI-based text generation application.
 To understand the basic working of language models.
 To learn how to integrate Hugging Face Transformers with Python.
@@ -51,7 +51,7 @@ To explore practical applications of Generative AI.
 To provide a simple platform for experimenting with AI-generated text.
 
 
- Future Enhancements
+ Future Enhancements:
  Add support for multiple languages.
  Improve the application user interface.
  Add copy-to-clipboard functionality.
